@@ -1,3 +1,4 @@
+# vedant-lab
 # LIC-LAB1  
 ### LIC Laboratory Files  
 
@@ -171,3 +172,4 @@ The 180 nm CS amplifier successfully meets the 1 mW power constraint and operate
 - The measured gain is close to the theoretical prediction.  
 - Bandwidth is mainly determined by the load capacitance.  
 - The circuit provides predictable low-power amplification with a 180° phase shift as expected.
+- 
